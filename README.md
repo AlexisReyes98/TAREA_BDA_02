@@ -1,6 +1,6 @@
 # Tarea_BDA_02
 
-UEA: Bases de Dastos Avanzadas.
+UEA: Bases de Datos Avanzadas.
 
 Interfaz gráfica para manipular datos. La interfaz deberá realizar inserciones a su tabla, deberá invocar al menos 2 funciones y 2
 procedimientos almacenados (PL/SQL). Mostrando el resultado en una sección inferior de la interfaz gráfica.
